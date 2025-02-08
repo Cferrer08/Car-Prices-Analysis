@@ -97,3 +97,10 @@ The cleaned dataset was loaded into Power BI to create interactive visualization
 
 
 
+## Author
+
+- [@Carlos Ferrer](https://github.com/Cferrer08)
+
+
+
+📧 If you need further assistance or have any questions, feel free to contact me at: [carlosferrerg08@gmail.com](mailto:carlosferrerg08@gmail.com)
