@@ -1,4 +1,4 @@
-# Car Analysis Dashboard
+# Automotive Market Price Analysis
 
 Dashboard Demo:
 https://drive.google.com/file/d/1hX1jGZdqw-LB81RQgrEqzYMpl5HHIkOB/view?usp=sharing
